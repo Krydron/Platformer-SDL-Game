@@ -1,0 +1,49 @@
+﻿  GameLoop.cpp
+  main.cpp
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(129,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(130,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(138,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(156,75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(157,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(158,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(159,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(222,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(223,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(224,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(225,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(226,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(227,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(266,45): warning C4474: 'printf' : too many arguments passed for format string
+      D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(266,45):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(315,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(315,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(360,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(365,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(365,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(415,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(500,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(501,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(510,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(510,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(514,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(514,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(572,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(572,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(576,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(687,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(687,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(687,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(687,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(713,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(723,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(725,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(772,60): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(789,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(790,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(791,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(792,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Games Design\Projects\School\Platformer\Platformer\main.cpp(257,1): warning C4715: 'Collider::ColliderType': not all control paths return a value
+  Platformer.vcxproj -> D:\Games Design\Projects\School\Platformer\x64\Debug\Platformer.exe
